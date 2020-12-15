@@ -1,0 +1,136 @@
+.one{
+	height: 600px;
+	width: 100%;
+	text-align: center;
+	line-height: 400px;
+	font-family: 'Raleway', sans-serif;	
+	background-image: url(https://i.postimg.cc/rFyf7q9q/36117088-jpg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.one #navi{
+	float: right;
+	list-style: none;
+	padding-top: 0px;
+	margin: 0;
+}
+
+.one #navi li{
+	float: left;
+	margin-left: 10px;
+	padding-right: 30px;
+	line-height: 60px;
+}
+
+.one #navi li a{
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+.one #navi li a:hover{
+			color: #092239;
+			font-weight: bold;
+}
+
+.one h1{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+	width: 100%;
+	color: white;
+	font-size: 40px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.two h2{
+	font-size: 36px;
+	color: #005c4d;
+	margin-top: 90px;
+	margin-bottom: 80px;
+	text-align: center;
+}
+
+.summary img{	
+	box-shadow: 0px 0px 1px #DCDCDC;
+	margin-bottom: 100px;
+}
+
+.two{	
+	text-align: center;
+	width: 750px;
+	display: block;
+	color: #545454;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+}
+
+.three{
+	width: 80%;
+	height: 800px;
+	margin-bottom: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+
+
+.artwork{
+	width: 80%;
+	height: 1000px;
+	padding-bottom: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.artwork img{	
+	width: 100%;	
+}
+
+.artwork #title{
+	height: 200px;
+	width: 100%;
+}
+
+.artwork #title h2{
+	color: #319b79;
+	font-size: 25px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.artwork #title p{	
+	font-size: 16px;
+	color: gray;	
+	margin-top: 10px;
+	margin-bottom: 100px;
+	text-align: justify;
+	line-height: 1.8;
+}
+
+.artwork #title a{
+	border: 2px solid #005c4d;			
+	width: 100px;
+	height: 60px;
+	text-decoration: none;
+	color: #005c4d;
+	font-weight: bold;
+	padding: 11px 30px;	
+}
+
+.artwork #title a:hover{
+			color: #566C80;
+			font-weight: bold;
+			border: 2px solid #566C80;
+			box-shadow: 0px 0px 10px #DBDBDB;
+}
